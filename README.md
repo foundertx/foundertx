@@ -6,11 +6,11 @@ Web Developer And App Developer
 
 I have been learning how to code for the past year and now building my own real projects ,that I will turn them to businesses and startups no matter how long it takes me .
 
-* 🌍  I'm based in South Africa
-* ✉️  You can contact me at [christophermakomberiches@gmail.com](mailto:christophermakomberiches@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I am a founder for my own tech company
+* 🌍  I'm based in South Africa
+* ✉️  You can contact me at [christophermakomberiches@gmail.com](mailto:christophermakomberiches@gmail.com)
+* 🧠  I'm learning React Native
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I am a founder for my own tech company
 
 ### Skills
 
@@ -34,6 +34,7 @@ I have been learning how to code for the past year and now building my own real 
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 </p>
 
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/foundertx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/foundertx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/prince_chrixtopher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christophermusamakombe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
